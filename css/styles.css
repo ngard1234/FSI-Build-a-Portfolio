@@ -1,0 +1,46 @@
+ 
+body {cursor: cell;
+}
+
+body {
+
+    background-color: powderblue;
+}
+
+h1   {
+    color: blue;
+}
+p    {
+    color: rgb(0, 4, 1);
+}
+
+
+div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+  }
+
+
+
+H1 { 
+    text-align: center 
+}
+
+body {
+   
+    background: url(/Users/neilgardner/FSI-Build-a-Portfolio/images/coding-portfolio.jpeg);
+  }
+
+  .p1 {
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  .p2 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .p3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
